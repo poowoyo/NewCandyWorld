@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<match_table>
+	<match word="Notice" text="공지"/>
+	<match word="OK" text="확인"/>
+	<match word="Yes" text="네"/>
+	<match word="No" text="아니오"/>
+	<match word="Loading..." text="Loading..."/>
+	<match word="Option" text="옵션"/>
+	<match word="Language" text="언어"/>
+	<match word="Graphic" text="그래픽"/>
+	<match word="Fullscreen" text="전체화면"/>
+	<match word="On" text="On"/>
+	<match word="Sound" text="사운드"/>
+	<match word="Save" text="저장"/>
+	<match word="Start" text="시작"/>
+	<match word="Download Patch Files..." text="Download Patch Files..."/>
+	<match word="Login" text="로그인"/>
+	<match word="Steam ID" text="Steam ID"/>
+	<match word="Select" text="선택"/>
+	<match word="Delete" text="삭제"/>
+	<match word="Back" text="뒤로가기"/>
+	<match word="Select Game Mode" text="게임 모드 선택"/>
+	<match word="Single / Host" text="서버 만들기"/>
+	<match word="Connect To Host" text="호스트에 접속하기"/>
+	<match word="Close" text="닫기"/>
+	<match word="New" text="새로만들기"/>
+	<match word="Map Name" text="맵 이름"/>
+	<match word="Game Mode" text="게임 모드"/>
+	<match word="Single Mode" text="혼자하기"/>
+	<match word="Enter Your Server Name" text="서버 이름"/>
+	<match word="Password" text="암호"/>
+	<match word="Open" text="열기"/>
+	<match word="New Map" text="신규 맵"/>
+	<match word="Setting" text="설정"/>
+	<match word="Name" text="이름"/>
+	<match word="Seed1" text="Seed1"/>
+	<match word="Welcome" text="Welcome"/>
+	<match word="Seed2" text="Seed2"/>
+	<match word="Islet" text="Islet"/>
+	<match word="Tree" text="나무"/>
+	<match word="Create" text="생성"/>
+	<match word="Terrain" text="지형"/>
+	<match word="X Scale" text="X Scale"/>
+	<match word="Cave" text="동굴"/>
+	<match word="Creating..." text="생성 중…"/>
+	<match word="Stop" text="중지"/>
+	<match word="Join" text="Join"/>
+	<match word="Server Name" text="서버 이름"/>
+	<match word="Connect" text="접속"/>
+	<match word="World Map" text="전체 맵"/>
+	<match word="Make" text="생성"/>
+	<match word="Body" text="신체"/>
+	<match word="Head" text="머리"/>
+	<match word="Upper" text="상체"/>
+	<match word="Hair" text="머리 스타일"/>
+	<match word="Eye Color" text="눈 색"/>
+	<match word="Lips Color" text="입술 색"/>
+	<match word="Copy Text" text="내용 복사"/>
+	<match word="Inventory" text="인벤토리"/>
+	<match word="Character" text="캐릭터"/>
+	<match word="Mastery" text="마스터리"/>
+	<match word="Observe Result" text="관찰 결과"/>
+	<match word="Storage" text="보관함"/>
+	<match word="Crafting" text="제작"/>
+	<match word="Max" text="최대"/>
+	<match word="Cancel" text="취소"/>
+	<match word="Dead" text="사망"/>
+	<match word="You Dead..." text="사망하였습니다."/>
+	<match word="Save me" text="부활"/>
+	<match word="Invitation" text="초대"/>
+	<match word="Yes!" text="네"/>
+	<match word="No." text="아니오"/>
+	<match word="Map" text="맵"/>
+	<match word="Board" text="게시판"/>
+	<match word="Apply" text="적용"/>
+	<match word="Rotate Left" text="왼쪽으로 회전"/>
+	<match word="Rotate Right" text="오른쪽으로 회전"/>
+	<match word="Kind" text="종"/>
+	<match word="Age" text="나이"/>
+	<match word="Gender" text="성별"/>
+	<match word="Count" text="개수"/>
+	<match word="Digging" text="생산력"/>
+	<match word="Attack" text="공격력"/>
+	<match word="Defense" text="방어력"/>
+	<match word="Durability" text="내구도"/>
+	<match word="Required Level" text="필요 레벨"/>
+	<match word="Drying" text="건조중"/>
+	<match word="Male" text="수컷"/>
+	<match word="Female" text="암컷"/>
+	<match word="Days" text="일"/>
+	<match word="Year" text="년"/>
+	<match word="Month" text="개월"/>
+	<match word="Credits" text="만든이"/>
+	<match word="Plants" text="식물"/>
+	<match word="Herbivore" text="초식동물"/>
+	<match word="Omnivore" text="잡식동물"/>
+	<match word="Carnivore" text="육식동물"/>
+	<match word="Achievements" text="도전과제"/>
+	<match word="Input" text="입력"/>
+	<match word="Mouse Sensitivity" text="마우스 감도"/>
+	<match word="Camera" text="카메라"/>
+	<match word="Field Of View" text="카메라 화각"/>
+	<match word="Change Name" text="이름 바꾸기"/>
+	<match word="Safety Place" text="보호 구역"/>
+	<match word="Gift Box" text="선물 상자"/>
+	<match word="Get All" text="모두 얻기"/>
+	<match word="Normal" text="일반"/>
+	<match word="Party" text="파티"/>
+	<match word="English" text="영어"/>
+	<match word="Korean" text="한국어"/>
+	<match word="Japanese" text="일본어"/>
+	<match word="Chinese" text="중국어"/>
+	<match word="Russian" text="러시아어"/>
+	<match word="Thai" text="태국어"/>
+	<match word="Other" text="기타"/>
+	<match word="Required object" text="제작장소"/>
+	<match word="Space" text="저장공간"/>
+	<match word="Default" text="기본값"/>
+	<match word="TPS Mode" text="TPS 모드"/>
+	<match word="AZERTY Key" text="AZERTY Key"/>
+	<match word="Control" text="조작"/>
+	<match word="Interface" text="인터페이스"/>
+	<match word="Command" text="명령어"/>
+	<match word="Keyboard" text="키보드"/>
+	<match word="Kick" text="강제 추방"/>
+	<match word="Change Leader" text="리더 변경"/>
+	<match word="Capture Rate" text="포획 확률"/>
+	<match word="Pregnancy" text="임신"/>
+	<match word="Dyeing" text="염색"/>
+	<match word="Preview" text="미리보기"/>
+	<match word="Dyeing Item" text="염색할 아이템"/>
+	<match word="Resource" text="재료"/>
+	<match word="Item Book" text="아이템 도감"/>
+	<match word="Adult Age" text="성체 나이"/>
+	<match word="Breeding" text="번식"/>
+	<match word="Calorie" text="열량"/>
+	<match word="Back to the login" text="로그인 화면으로 가기"/>
+	<match word="Exit Game" text="게임 종료"/>
+	<match word="Man" text="남성"/>
+	<match word="Woman" text="여성"/>
+	<match word="Help" text="도움말"/>
+	<match word="Resolution" text="해상도"/>
+	<match word="Shader" text="쉐이더"/>
+	<match word="View Distance" text="시야거리"/>
+	<match word="HDR" text="HDR "/>
+	<match word="Shadow" text="그림자"/>
+	<match word="Nature" text="자연"/>
+	<match word="3D" text="3D"/>
+	<match word="Music" text="음악"/>
+	<match word="Cache" text="캐쉬"/>
+	<match word="network" text="네트워크"/>
+	<match word="Sort" text="정렬"/>
+	<match word="Set Respawn Pos" text="부활 위치 지정"/>
+	<match word="Move To Respawn" text="부활 위치로 이동"/>
+	<match word="Hour" text="시간"/>
+	<match word="Minute" text="분"/>
+	<match word="Second" text="초"/>
+	<match word="Land List" text="소유 영역 리스트"/>
+	<match word="Food Poisoning" text="식중독"/>
+	<match word="Freshness" text="신선도"/>
+	<match word="Effect" text="효과"/>
+	<match word="Satiety" text="포만감"/>
+	<match word="Exploration" text="탐험"/>
+	<match word="Patch Note" text="뉴캔디월드 리소스팩 적용됨"/>
+	<match word="Weather" text="날씨"/>
+	<match word="Particle" text="파티클"/>
+	<match word="Clouds" text="구름"/>
+	<match word="Physics" text="물리엔진"/>
+	<match word="Low Shader" text="저급 쉐이더"/>
+	<match word="Low Texture" text="저급 텍스처"/>
+	<match word="Cooldown" text="재사용 대기시간"/>
+	<match word="The Remaining Time" text="남은 시간"/>
+	<match word="Success" text="성공"/>
+	<match word="Fail" text="실패"/>
+	<match word="Repair" text="수리"/>
+	<match word="Probability Of Success" text="성공 확률"/>
+	<match word="Repair Kit" text="수리 도구"/>
+	<match word="Item" text="아이템"/>
+	<match word="Random treasure box" text="랜덤보물상자"/>
+	<match word="Trade" text="거래"/>
+	<match word="Gift" text="선물"/>
+	<match word="Disassembled" text="해체된"/>
+	<match word="StoreBox_Name" text="%s님의 상점"/>
+	<match word="StoreBox_Cost" text="요구아이템"/>
+	<match word="StoreBox_Offer" text="판매아이템"/>
+	<match word="StoreBox_SellerItem" text="판매할 아이템"/>
+	<match word="StoreBox_SellerOffer" text="원하는 아이템"/>
+	<match word="Sold Out" text="매진"/>
+	<match word="Buy" text="구매"/>
+	<match word="Sell" text="판매"/>
+	<match word="Confirm" text="확인"/>
+	<match word="Edit" text="편집"/>
+	<match word="Management" text="관리"/>
+	<match word="List" text="목록"/>
+	<match word="Remove" text="제거"/>
+	<match word="Trade Complete" text="거래완료"/>
+	<match word="In Preparation" text="준비중입니다."/>
+	<match word="Ranking" text="랭킹"/>
+	<match word="Rank" text="순위"/>
+	<match word="Value" text="값"/>
+	<match word="Hook" text="낚기!"/>
+	<match word="1st water grade" text="1급수"/>
+	<match word="2nd water grade" text="2급수"/>
+	<match word="3rd water grade" text="3급수"/>
+	<match word="Size" text="크기"/>
+	<match word="Obtainable Items" text="획득가능한 아이템"/>
+	<match word="Disassemble" text="분해"/>
+	<match word="Ability" text="능력"/>
+	<match word="Vehicle" text="탈것"/>
+	<match word="Species" text="품종"/>
+	<match word="Harvest Date" text="수확 시기"/>
+	<match word="Kitchen Garden" text="텃밭"/>
+	<match word="Information" text="텃밭 정보"/>
+	<match word="Use Item" text="아이템 사용"/>
+	<match word="Nourishment" text="영양분"/>
+	<match word="Ph" text="Ph"/>
+	<match word="Required nutrient" text="필요 영양분"/>
+	<match word="Optimum temperature" text="적정 온도"/>
+	<match word="Moisture reduction cycle" text="수분 감소 주기"/>
+	<match word="Optimal Ph" text="적정 Ph"/>
+	<match word="Propensity to sun" text="햇빛 성향"/>
+	<match word="Available harvest period" text="수확 가능 기간"/>
+	<match word="Seeding period" text="파종시기"/>
+	<match word="Cultivation" text="재배하기"/>
+	<match word="Put Item" text="아이템 넣기"/>
+	<match word="Harvest" text="수확하기"/>
+	<match word="Plow up" text="갈아엎기"/>
+	<match word="Nutrition after plow up" text="갈아엎기 영양분"/>
+	<match word="Like" text="좋아함"/>
+	<match word="Do not like" text="좋아하지 않음"/>
+	<match word="Disassembly" text="분해"/>
+	<match word="Friend" text="친구"/>
+	<match word="Search Friend" text="친구 찾기"/>
+	<match word="Send Request" text="보낸 요청"/>
+	<match word="Received Request" text="받은 요청"/>
+	<match word="Enter Friend's Nickname" text="친구 닉네임 입력"/>
+	<match word="Whisper" text="귓속말"/>
+	<match word="Party Invitation" text="파티 초대"/>
+	<match word="Delete Friend" text="친구 삭제"/>
+	<match word="ago_second" text="%d 초 전"/>
+	<match word="ago_minute" text="%d 분 전"/>
+	<match word="ago_hour" text="%d 시간 전"/>
+	<match word="Change" text="변경하기"/>
+	<match word="Invite Friend" text="친구 초대하기"/>
+	<match word="Eyes" text="눈"/>
+	<match word="Mouth" text="입"/>
+	<match word="Mail Box" text="우편함"/>
+</match_table>
