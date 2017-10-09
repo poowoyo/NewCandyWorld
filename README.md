@@ -1,0 +1,2 @@
+# NewCandyWorld
+IsletOnline NewCandyWorldResourcePack
